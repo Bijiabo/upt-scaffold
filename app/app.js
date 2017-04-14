@@ -2,10 +2,10 @@
  * Created by huchunbo on 2017/2/16.
  */
 define([
-    './../manager/command',
-    './../manager/workStatus',
-    './../manager/helper',
-    './../manager/record',
+    './../managers/command',
+    './../managers/workStatus',
+    './../managers/helper',
+    './../managers/record',
 ], function() {
     var viewData = [];
 
