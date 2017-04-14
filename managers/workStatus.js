@@ -1,7 +1,7 @@
 /**
  * Created by huchunbo on 2017/2/16.
  */
-define(['./js/manager/workStatusManager'], function (workStatus) {
+define(['./../core/js/manager/workStatusManager'], function (workStatus) {
     workStatus.add(
         'isWorking',
         function (data) {

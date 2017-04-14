@@ -1,7 +1,7 @@
 /**
  * Created by huchunbo on 2017/2/17.
  */
-define(['./js/manager/helperManager'], function (helper) {
+define(['./../core/js/manager/helperManager'], function (helper) {
 
     var workModeList = ['', '卸妆模式', '深层补水', '肌肤SPA', '晒后恢复', '敏感肌肤护理', '控油模式', 'DIY模式'];
 
